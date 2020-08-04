@@ -3,7 +3,7 @@ const loadPlaces = function(coords) {
     const method = 'api';
 
     const PLACES = [{
-        name: "Your place name",
+        name: "Binh Duong University",
         location: {
             lat: 10.990269694596165, // add here latitude if using static data
             lng: 106.66463533908166, // add here longitude if using static data
